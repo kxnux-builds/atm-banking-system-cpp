@@ -1,90 +1,52 @@
-<<<<<<< HEAD
-# ===============================
 # VS Code
-# ===============================
+
 .vscode/
 
-# ===============================
-# Compiled binaries / executables
-# ===============================
+# Compiled executables / binaries
+
 *.exe
 *.out
 *.app
 *.dll
 *.so
+*.dylib
 
-# ===============================
-# Object files
-# ===============================
+# Object & intermediate files
+
 *.o
 *.obj
+*.lo
+*.slo
+*.a
+*.lib
+*.lai
 
-# ===============================
 # Debug & symbol files
-# ===============================
+
 *.pdb
 *.dSYM/
+*.ilk
+*.dwo
 
-# ===============================
+# Precompiled headers
+
+*.gch
+*.pch
+
 # Build / output directories
-# ===============================
+
 build/
 bin/
 out/
 dist/
 
-# ===============================
-# Temporary / log files
-# ===============================
+# Temporary / cache / log files
+
 *.log
 *.tmp
 *.cache
 
-# ===============================
 # OS-specific files
-# ===============================
+
 .DS_Store
 Thumbs.db
-=======
-# Prerequisites
-*.d
-
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
-
-# Precompiled Headers
-*.gch
-*.pch
-
-# Linker files
-*.ilk
-
-# Debugger Files
-*.pdb
-
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
-
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
-*.exe
-*.out
-*.app
-
-# debug information files
-*.dwo
->>>>>>> 082505c92f6a739b250d816fbed665367114e81b

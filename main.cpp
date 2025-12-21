@@ -46,6 +46,7 @@ void waitForUser()
     std::cin.get();
 }
 
+
 void printHeader(const std::string &title)
 {
     std::string fullTitle = BANK_NAME + " - " + title;

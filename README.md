@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🏦 ATM Banking System (C++)
 
 A **console-based ATM Banking System** developed using **modern C++** and **Object-Oriented Programming (OOP)** principles.  
@@ -10,10 +9,10 @@ This project simulates real-world ATM operations with a strong focus on **securi
 
 atm-banking-system-cpp/
 │
-├── .gitignore    # C++ ignore rules
-├── main.cpp      # Complete implementation
-├── README.md     # Project documentation
-└── LICENSE       # MIT License
+├── .gitignore
+├── LICENSE
+├── README.md
+└── main.cpp
 
 ---
 
@@ -84,7 +83,20 @@ This project bridges that gap by implementing a **practical ATM simulation** tha
 
 ---
 
-=======
-# atm-banking-system-cpp
-A console-based ATM Banking System built using modern C++ concepts. Features secure PIN authentication, account locking, deposits, withdrawals, transaction history, and cross-platform terminal support. Designed with clean OOP architecture and real-world banking workflows.
->>>>>>> 082505c92f6a739b250d816fbed665367114e81b
+## ▶️ Compilation & Execution
+
+- **Linux / macOS**
+  - g++ main.cpp -o atm
+  - ./atm
+
+- **Windows (MinGW)**
+  - g++ main.cpp -o atm.exe
+  - atm.exe
+
+---
+
+## 📄 License
+
+  - This project is licensed under the MIT License, allowing free use, modification, and distribution for educational and personal purposes.
+
+---
