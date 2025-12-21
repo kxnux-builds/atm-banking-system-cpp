@@ -8,7 +8,6 @@ This project simulates real-world ATM operations with a strong focus on **securi
 ## 🗂️ Project Structure
 
 atm-banking-system-cpp/
-│
 ├── .gitignore
 ├── LICENSE
 ├── README.md
