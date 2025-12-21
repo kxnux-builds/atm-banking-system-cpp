@@ -5,16 +5,6 @@ This project simulates real-world ATM operations with a strong focus on **securi
 
 ---
 
-## 🗂️ Project Structure
-
-atm-banking-system-cpp/
-├── .gitignore
-├── LICENSE
-├── README.md
-└── main.cpp
-
----
-
 ## 📌 Overview
 
 The ATM Banking System provides a realistic simulation of core banking operations such as secure authentication, balance management, cash transactions, and transaction history tracking.  
@@ -97,5 +87,17 @@ This project bridges that gap by implementing a **practical ATM simulation** tha
 ## 📄 License
 
   - This project is licensed under the MIT License, allowing free use, modification, and distribution for educational and personal purposes.
+
+---
+
+## 🗂️ Project Structure
+
+```text
+atm-banking-system-cpp/
+│
+├── .gitignore
+├── LICENSE
+├── README.md
+└── main.cpp
 
 ---
