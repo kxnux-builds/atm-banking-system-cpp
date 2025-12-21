@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🏦 ATM Banking System (C++)
 
 A **console-based ATM Banking System** developed using **modern C++** and **Object-Oriented Programming (OOP)** principles.  
@@ -83,3 +84,7 @@ This project bridges that gap by implementing a **practical ATM simulation** tha
 
 ---
 
+=======
+# atm-banking-system-cpp
+A console-based ATM Banking System built using modern C++ concepts. Features secure PIN authentication, account locking, deposits, withdrawals, transaction history, and cross-platform terminal support. Designed with clean OOP architecture and real-world banking workflows.
+>>>>>>> 082505c92f6a739b250d816fbed665367114e81b
