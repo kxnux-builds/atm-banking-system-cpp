@@ -216,12 +216,6 @@ Possible enhancements for future versions:
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-## Summary
-
-The ATM Banking System project is a clean and practical C++ demonstration of core banking operations, user authentication, secure transaction control, and OOP-based design. It is suitable for learning, coding practice, academic projects, and portfolio showcases.
-
-If you want to extend it further, this project is a strong starting point for building a more complete banking management system.
-
 ## 👤 Author
 
 - Author: Kishanu Mondal
